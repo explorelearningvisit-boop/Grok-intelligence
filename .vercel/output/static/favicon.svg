@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="BAD GYM">
+  <rect width="32" height="32" rx="7" fill="#7a0018"/>
+  <g fill="#f5c542">
+    <ellipse cx="8.4" cy="10.2" rx="2.1" ry="3.3" transform="rotate(-42 8.4 10.2)"/>
+    <ellipse cx="6.6" cy="16" rx="2.05" ry="3.5" transform="rotate(-78 6.6 16)"/>
+    <ellipse cx="8.4" cy="21.8" rx="2.1" ry="3.3" transform="rotate(-118 8.4 21.8)"/>
+    <ellipse cx="23.6" cy="10.2" rx="2.1" ry="3.3" transform="rotate(42 23.6 10.2)"/>
+    <ellipse cx="25.4" cy="16" rx="2.05" ry="3.5" transform="rotate(78 25.4 16)"/>
+    <ellipse cx="23.6" cy="21.8" rx="2.1" ry="3.3" transform="rotate(118 23.6 21.8)"/>
+  </g>
+  <text x="16" y="17.2" text-anchor="middle" dominant-baseline="central"
+    font-family="Georgia, 'Times New Roman', serif" font-size="14" font-weight="700" fill="#fff6e8">B</text>
+</svg>

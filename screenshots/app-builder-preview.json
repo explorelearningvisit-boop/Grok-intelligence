@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "BAD GYM — Member Intelligence",
+      "hasCanvas": false,
+      "bodyTextLen": 621,
+      "bodyTextHash": "6f31ebf38aab6240a3ca12f2590f035233694e68fb15707a63fa3eb8173f36cd",
+      "bodyTextPrefix": "BAD GYM Member Intelligence 3 CHECKED-IN 16 Oct 2026 · 07:12 AM ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "BAD GYM — Member Intelligence",
+      "hasCanvas": false,
+      "bodyTextLen": 621,
+      "bodyTextHash": "6f31ebf38aab6240a3ca12f2590f035233694e68fb15707a63fa3eb8173f36cd",
+      "bodyTextPrefix": "BAD GYM Member Intelligence 3 CHECKED-IN 16 Oct 2026 · 07:12 AM ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
